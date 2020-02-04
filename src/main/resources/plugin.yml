@@ -1,0 +1,6 @@
+name: R3DSpec
+author: Sterling (@sterlingheaton)
+description: Super secret plugin to do secret things.
+version: 1.0
+main: com.redslounge.r3dspec.Plugin
+commands:
